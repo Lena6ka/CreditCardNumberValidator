@@ -1,3 +1,4 @@
+
 # Отчёт о тестировании Credit Card Number Validator
 
 ## Краткое описание
@@ -7,11 +8,9 @@
 На тестирование затрачено: 3 часа
 
 В результате тестирования были выявлены следующие дефекты:
-* [Валидный номер карты American Express (AMEX) не прошел валидацию](https://github.com/Lena6ka/CreditCardNumberValidator/issues/1)
-* [Валидный 18-значный номер карты MAESTRO не прошел валидацию](https://github.com/Lena6ka/CreditCardNumberValidator/issues/2)
-* [Валидный 19-ти значный номер карты Maestro не прошел валидацию](https://github.com/Lena6ka/CreditCardNumberValidator/issues/3)
-* [Валидный 13-ти значный номер карты VISA не прошел валидацию](https://github.com/Lena6ka/CreditCardNumberValidator/issues/4)
-* [Валидный 19-ти значный номер карты Visa не прошел валидацию](https://github.com/Lena6ka/CreditCardNumberValidator/issues/5)
+* [Валидные 13-ти и 19-ти значные номера карт Visa не прошли валидацию](https://github.com/Lena6ka/CreditCardNumberValidator/issues/5)
+* [Валидные номера карт American Express (AMEX) не прошли валидацию](https://github.com/Lena6ka/CreditCardNumberValidator/issues/1)
+* [Валидные 18-ти и 19-ти значные номера карт Maestro не прошли валидацию](https://github.com/Lena6ka/CreditCardNumberValidator/issues/3)
 * [Валидный 19-ти значный номер карты JCB не прошел валидацию](https://github.com/Lena6ka/CreditCardNumberValidator/issues/6)
 
 ## Описание процесса тестирования
